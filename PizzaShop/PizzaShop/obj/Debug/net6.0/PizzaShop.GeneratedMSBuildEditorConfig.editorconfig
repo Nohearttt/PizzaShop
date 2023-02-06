@@ -15,16 +15,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\kiril\Desktop\PizzaShop\PizzaShop\PizzaShop
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/kiril/Desktop/PizzaShop/PizzaShop/PizzaShop/Pages/Checkout/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kiril/Desktop/PizzaShop/PizzaShop/PizzaShop/Pages/Checkout/OrderCompletion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcT3JkZXJDb21wbGV0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kiril/Desktop/PizzaShop/PizzaShop/PizzaShop/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kiril/Desktop/PizzaShop/PizzaShop/PizzaShop/Pages/Forms/CustomPizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXNcQ3VzdG9tUGl6emEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kiril/Desktop/PizzaShop/PizzaShop/PizzaShop/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kiril/Desktop/PizzaShop/PizzaShop/PizzaShop/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/kiril/Desktop/PizzaShop/PizzaShop/PizzaShop/Pages/Pizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kiril/Desktop/PizzaShop/PizzaShop/PizzaShop/Pages/Shared/_ValidationScriptsPartial.cshtml]
