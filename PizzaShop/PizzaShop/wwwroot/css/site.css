@@ -31,3 +31,17 @@ body {
     font-weight: 400;
     letter-spacing: 2px;
 }
+.smallText{
+    text-align:right;
+    color:grey;
+}
+.makeYourOwnDiv {
+    background: #8d7ca3;
+    border-radius: 20px;
+    margin: 0;
+}
+
+.makeYourOwnText{
+    margin: 300px 0 0 30px;
+    color: white;
+}
