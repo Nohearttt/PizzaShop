@@ -42,6 +42,11 @@ body {
 }
 
 .makeYourOwnText{
-    margin: 300px 0 0 30px;
+    margin: 100px 0 0 0px;
     color: white;
+}
+
+.controlPanel {
+    margin: 100px 0 0 0px;
+    color: #8d7ca3;
 }

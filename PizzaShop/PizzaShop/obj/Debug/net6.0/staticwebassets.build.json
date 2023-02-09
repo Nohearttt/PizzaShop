@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fVBQTihxGZylI1m8sMzEfwSTOgjkEAKTgy8OtJdyC8A=",
+  "Hash": "gS4W7PF1z7srLVylazQY54PV+i4L8swmeNdOnSDMTZE=",
   "Source": "PizzaShop",
   "BasePath": "_content/PizzaShop",
   "Mode": "Default",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Pizza\\CreatePizza.png"
+    },
+    {
+      "Identity": "C:\\Users\\kiril\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop\\wwwroot\\images\\Pizza\\IconPizza.png",
+      "SourceId": "PizzaShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kiril\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop\\wwwroot\\",
+      "BasePath": "_content/PizzaShop",
+      "RelativePath": "images/Pizza/IconPizza.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizza\\IconPizza.png"
     },
     {
       "Identity": "C:\\Users\\kiril\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop\\wwwroot\\images\\Pizza\\iPizza.png",
